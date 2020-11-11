@@ -1,0 +1,259 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i,400,400i,500,500i,600,600i,700,700i');
+
+body {
+  text-align: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+  background: linear-gradient(to bottom right, #0085B1, #004FA9);
+  color: white;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+/* GENERAL STYLING */
+
+a {
+  color: white;
+}
+
+ul {
+  padding: 0;
+}
+
+
+.top-of-page {
+  height: 80px;
+}
+
+.result-ind-title {
+  text-transform: capitalize;
+}
+
+.result-ind-class {
+  float: right;
+}
+
+.result-ind-nationality {
+  width: 20%;
+}
+
+.ui.grid>.column:not(.row) {
+  padding: 0 0 0 0;
+}
+
+#vl-logo {
+  width: 7.5em;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+#powered-by-ibm {
+  opacity: 0;
+  position: absolute;
+  font-weight: 400;
+  right: 20px;
+  top: 30px;  
+}
+
+/* HOME STYLING */
+
+.homeArea {
+  margin-top: 15%;
+}
+
+.home-search {
+  font-weight: 100;
+  width: 25vw;
+  font-size: 24px;
+}
+
+.home-title {
+  font-family: Helvetica Neue;
+  font-weight: 100;
+  margin-bottom: 3vw;
+  font-style: italic;
+  font-size: 6vw;
+}
+
+/* SEARCH STYLING */
+
+.user {
+  color: white;
+  border-style: solid;
+  border-width: 2px;
+  margin: 5px;
+}
+
+.user a {
+  color: white;
+}
+
+.search-bar > div {
+ display: inline-block;
+}
+
+.prompt {
+ font-weight: 700;
+ width: 45vw;
+ height: 5vw;
+ font-size: 2vw;
+}
+
+.ui.search>.results {
+  width: 45vw;
+}
+
+/* MEDAL STYLING */
+
+.name-title {
+  font-family: Plex, Helvetica Neue;
+  text-transform: capitalize;
+  font-size: 6vw;
+  margin-bottom: 1vw;
+
+  -webkit-animation-duration: 3s;
+  -webkit-animation-name: name-title;
+  -webkit-animation-direction: alternate;
+  -webkit-animation-iteration-count: infinite;
+  animation-duration: 3s;
+  animation-name: name-title;
+  animation-direction: alternate;
+  animation-iteration-count: infinite;
+
+}
+
+.flag-name {
+  scale: 20;
+}
+
+.name-under-title {
+  width: 50%;
+  display: inline-block;
+}
+
+.welldone-title {
+  font-family: Helvetica Neue;
+  font-size: 2.5vw;
+  font-weight: 100;
+  margin-top: 3.5vh;
+  font-style: italic;
+}
+
+@-webkit-keyframes name-title {
+  from { text-shadow: 0 0 0px white; }
+  to { text-shadow: 0 0 50px rgb(170, 170, 170); }
+}
+
+.medal-box ul {
+  display: flex;
+  align-content: center;
+  width: 100%;
+  margin:0;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  justify-content: center
+}
+
+.medal-box li {
+  float:left;
+  display: table-cell;
+
+}
+
+.medal-title {
+  position: relative;
+  font-size: 20px;
+  margin-top: 10px;
+  color: white;
+  /*transform: translateY(30%);*/
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  text-align: center;
+  font-family: Oswald;
+  text-transform: uppercase;
+  transition: opacity 0.3s ease;
+}
+
+.medal-title span {
+  align-self: center
+}
+
+.medal-undertitle {
+  font-size: 1.4vw;
+}
+
+/*.medal-inner:hover .medal-title { 
+  opacity: 0;
+ }*/
+
+.ind-medal {
+  width: 18vw;
+  padding: 5px;
+  /*border-style: solid;
+  border-width: 2px;*/
+  margin: 20px;
+  
+  opacity: 0;
+  transform: translateY(20px);
+  animation: comeIn 0.4s ease forwards;
+}
+
+.medal-inner {
+  transition: all 0.2s ease;
+}
+.medal-inner:hover {
+  transform: scale(1.075) translateY(0px);
+}
+
+.share-info {
+  z-index: 5;
+  transition: opacity 0.2s ease;
+}
+
+.ind-medal:hover .share-info {
+  opacity: 1;
+  /*transform: translateY(0px);*/
+}
+
+@keyframes comeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+     opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+.share-info {
+  position: absolute;
+  left: 50%;
+  top: 63%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+  transition: all 0.3s ease;
+}
+
+.compNotFound {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Helvetica Neue;
+  font-weight: lighter;
+  font-style: italic;
+  font-size: 6vw;
+}
+
+
+.medal-image {
+  position: relative;
+}

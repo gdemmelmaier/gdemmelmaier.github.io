@@ -1,0 +1,14 @@
+{
+  "name": "vasaloppet-api",
+  "version": "1.0.0",
+  "description": "The back-end for our Vasaloppet webapp",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "fuse.js": "^3.2.0",
+    "mongoose": "latest"
+  },
+  "author": "Erik Nilsson, Gustav Demmelmaier",
+  "license": "ISC"
+}

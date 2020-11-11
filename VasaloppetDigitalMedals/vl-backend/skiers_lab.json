@@ -1,0 +1,1138 @@
+[
+  {
+    "_id": "5adde4f8752612f10d620f45",
+    "age": 32,
+    "name": "Gunde Svan",
+    "gender": "male",
+    "club": "Klugger",
+    "city": "Harold",
+    "country": "Mexico",
+    "lopp": [
+      {
+        "title": "Vasaloppet",
+        "year": 1991,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 1000
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3775
+          },
+          {
+            "name": "Risberg",
+            "time": 2532
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3612
+          },
+          {
+            "name": "Oxberg",
+            "time": 2900
+          },
+          {
+            "name": "Hökberg",
+            "time": 2824
+          },
+          {
+            "name": "Eldris",
+            "time": 2488
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2272
+          },
+          {
+            "name": "Mål",
+            "time": 163
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1985,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3649
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3195
+          },
+          {
+            "name": "Risberg",
+            "time": 2694
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3552
+          },
+          {
+            "name": "Oxberg",
+            "time": 3132
+          },
+          {
+            "name": "Hökberg",
+            "time": 2700
+          },
+          {
+            "name": "Eldris",
+            "time": 2492
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2320
+          },
+          {
+            "name": "Mål",
+            "time": 173
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1975,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3032
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3284
+          },
+          {
+            "name": "Risberg",
+            "time": 2002
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3185
+          },
+          {
+            "name": "Oxberg",
+            "time": 2800
+          },
+          {
+            "name": "Hökberg",
+            "time": 2990
+          },
+          {
+            "name": "Eldris",
+            "time": 2972
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2360
+          },
+          {
+            "name": "Mål",
+            "time": 189
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1991,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3605
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3894
+          },
+          {
+            "name": "Risberg",
+            "time": 2146
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3909
+          },
+          {
+            "name": "Oxberg",
+            "time": 3567
+          },
+          {
+            "name": "Hökberg",
+            "time": 3034
+          },
+          {
+            "name": "Eldris",
+            "time": 2923
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2377
+          },
+          {
+            "name": "Mål",
+            "time": 191
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1990,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3590
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3930
+          },
+          {
+            "name": "Risberg",
+            "time": 2085
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3424
+          },
+          {
+            "name": "Oxberg",
+            "time": 3532
+          },
+          {
+            "name": "Hökberg",
+            "time": 3072
+          },
+          {
+            "name": "Eldris",
+            "time": 2987
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2310
+          },
+          {
+            "name": "Mål",
+            "time": 188
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1987,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 1000
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 1000
+          },
+          {
+            "name": "Risberg",
+            "time": 2196
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3877
+          },
+          {
+            "name": "Oxberg",
+            "time": 3121
+          },
+          {
+            "name": "Hökberg",
+            "time": 2463
+          },
+          {
+            "name": "Eldris",
+            "time": 2783
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2397
+          },
+          {
+            "name": "Mål",
+            "time": 191
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1979,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3635
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3394
+          },
+          {
+            "name": "Risberg",
+            "time": 2255
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3167
+          },
+          {
+            "name": "Oxberg",
+            "time": 3462
+          },
+          {
+            "name": "Hökberg",
+            "time": 2948
+          },
+          {
+            "name": "Eldris",
+            "time": 2662
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2372
+          },
+          {
+            "name": "Mål",
+            "time": 146
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1980,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3822
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3760
+          },
+          {
+            "name": "Risberg",
+            "time": 2986
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3615
+          },
+          {
+            "name": "Oxberg",
+            "time": 3193
+          },
+          {
+            "name": "Hökberg",
+            "time": 2983
+          },
+          {
+            "name": "Eldris",
+            "time": 2542
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 1934
+          },
+          {
+            "name": "Mål",
+            "time": 192
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1970,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3672
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3181
+          },
+          {
+            "name": "Risberg",
+            "time": 2152
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3327
+          },
+          {
+            "name": "Oxberg",
+            "time": 3268
+          },
+          {
+            "name": "Hökberg",
+            "time": 2614
+          },
+          {
+            "name": "Eldris",
+            "time": 2720
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2090
+          },
+          {
+            "name": "Mål",
+            "time": 152
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2003,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3512
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3840
+          },
+          {
+            "name": "Risberg",
+            "time": 2534
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3985
+          },
+          {
+            "name": "Oxberg",
+            "time": 3677
+          },
+          {
+            "name": "Hökberg",
+            "time": 3074
+          },
+          {
+            "name": "Eldris",
+            "time": 2589
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 1923
+          },
+          {
+            "name": "Mål",
+            "time": 185
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5adde4f852b7c5f91d133e8b",
+    "age": 20,
+    "name": "Stina Grönwall",
+    "gender": "female",
+    "club": "Upsala IF",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "lopp": [
+      {
+        "title": "Vasaloppet",
+        "year": 1997,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3551
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3045
+          },
+          {
+            "name": "Risberg",
+            "time": 2134
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3089
+          },
+          {
+            "name": "Oxberg",
+            "time": 3821
+          },
+          {
+            "name": "Hökberg",
+            "time": 3056
+          },
+          {
+            "name": "Eldris",
+            "time": 2974
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2397
+          },
+          {
+            "name": "Mål",
+            "time": 194
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2011,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 1000
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3200
+          },
+          {
+            "name": "Risberg",
+            "time": 2922
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3332
+          },
+          {
+            "name": "Oxberg",
+            "time": 3623
+          },
+          {
+            "name": "Hökberg",
+            "time": 2946
+          },
+          {
+            "name": "Eldris",
+            "time": 2628
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 1963
+          },
+          {
+            "name": "Mål",
+            "time": 168
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5adde4f8f3d2372f856b899a",
+    "age": 27,
+    "name": "Marit Bjørgen",
+    "gender": "female",
+    "club": "Rognes IL",
+    "city": "Trondheim",
+    "country": "Norway",
+    "lopp": [
+      {
+        "title": "Vasaloppet",
+        "year": 2014,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 2038
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 2114
+          },
+          {
+            "name": "Risberg",
+            "time": 2519
+          },
+          {
+            "name": "Evertsberg",
+            "time": 2229
+          },
+          {
+            "name": "Oxberg",
+            "time": 2107
+          },
+          {
+            "name": "Hökberg",
+            "time": 2067
+          },
+          {
+            "name": "Eldris",
+            "time": 2422
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2379
+          },
+          {
+            "name": "Mål",
+            "time": 122
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2017,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3286
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3580
+          },
+          {
+            "name": "Risberg",
+            "time": 2516
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3590
+          },
+          {
+            "name": "Oxberg",
+            "time": 3836
+          },
+          {
+            "name": "Hökberg",
+            "time": 1377
+          },
+          {
+            "name": "Eldris",
+            "time": 2991
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2035
+          },
+          {
+            "name": "Mål",
+            "time": 168
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2011,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3929
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3478
+          },
+          {
+            "name": "Risberg",
+            "time": 2387
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3602
+          },
+          {
+            "name": "Oxberg",
+            "time": 3762
+          },
+          {
+            "name": "Hökberg",
+            "time": 2739
+          },
+          {
+            "name": "Eldris",
+            "time": 2795
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2180
+          },
+          {
+            "name": "Mål",
+            "time": 191
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5adde4f880483a01c4fdfc04",
+    "age": 29,
+    "name": "Kelly Warren",
+    "gender": "male",
+    "club": "Bleendot",
+    "city": "Loveland",
+    "country": "Mozambique",
+    "lopp": [
+      {
+        "title": "Vasaloppet",
+        "year": 2003,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3528
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3016
+          },
+          {
+            "name": "Risberg",
+            "time": 2721
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3578
+          },
+          {
+            "name": "Oxberg",
+            "time": 3830
+          },
+          {
+            "name": "Hökberg",
+            "time": 2516
+          },
+          {
+            "name": "Eldris",
+            "time": 2935
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2362
+          },
+          {
+            "name": "Mål",
+            "time": 173
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2007,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3246
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3571
+          },
+          {
+            "name": "Risberg",
+            "time": 2340
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3085
+          },
+          {
+            "name": "Oxberg",
+            "time": 3185
+          },
+          {
+            "name": "Hökberg",
+            "time": 2980
+          },
+          {
+            "name": "Eldris",
+            "time": 2689
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2113
+          },
+          {
+            "name": "Mål",
+            "time": 151
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1988,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3725
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3397
+          },
+          {
+            "name": "Risberg",
+            "time": 2524
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3711
+          },
+          {
+            "name": "Oxberg",
+            "time": 3485
+          },
+          {
+            "name": "Hökberg",
+            "time": 3036
+          },
+          {
+            "name": "Eldris",
+            "time": 2683
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2189
+          },
+          {
+            "name": "Mål",
+            "time": 158
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1981,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3947
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3328
+          },
+          {
+            "name": "Risberg",
+            "time": 2179
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3719
+          },
+          {
+            "name": "Oxberg",
+            "time": 3787
+          },
+          {
+            "name": "Hökberg",
+            "time": 2383
+          },
+          {
+            "name": "Eldris",
+            "time": 2467
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2268
+          },
+          {
+            "name": "Mål",
+            "time": 153
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1981,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3734
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3307
+          },
+          {
+            "name": "Risberg",
+            "time": 2713
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3252
+          },
+          {
+            "name": "Oxberg",
+            "time": 3371
+          },
+          {
+            "name": "Hökberg",
+            "time": 2677
+          },
+          {
+            "name": "Eldris",
+            "time": 2654
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2303
+          },
+          {
+            "name": "Mål",
+            "time": 174
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1999,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3205
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3003
+          },
+          {
+            "name": "Risberg",
+            "time": 2771
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3950
+          },
+          {
+            "name": "Oxberg",
+            "time": 3204
+          },
+          {
+            "name": "Hökberg",
+            "time": 2983
+          },
+          {
+            "name": "Eldris",
+            "time": 2837
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2071
+          },
+          {
+            "name": "Mål",
+            "time": 170
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2017,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3500
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3890
+          },
+          {
+            "name": "Risberg",
+            "time": 2214
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3369
+          },
+          {
+            "name": "Oxberg",
+            "time": 3165
+          },
+          {
+            "name": "Hökberg",
+            "time": 3061
+          },
+          {
+            "name": "Eldris",
+            "time": 2677
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2280
+          },
+          {
+            "name": "Mål",
+            "time": 179
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2001,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3927
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3931
+          },
+          {
+            "name": "Risberg",
+            "time": 2103
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3932
+          },
+          {
+            "name": "Oxberg",
+            "time": 3337
+          },
+          {
+            "name": "Hökberg",
+            "time": 2347
+          },
+          {
+            "name": "Eldris",
+            "time": 2731
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2067
+          },
+          {
+            "name": "Mål",
+            "time": 190
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1990,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3715
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3962
+          },
+          {
+            "name": "Risberg",
+            "time": 2680
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3621
+          },
+          {
+            "name": "Oxberg",
+            "time": 3383
+          },
+          {
+            "name": "Hökberg",
+            "time": 2755
+          },
+          {
+            "name": "Eldris",
+            "time": 2563
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2064
+          },
+          {
+            "name": "Mål",
+            "time": 140
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 1980,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3363
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3601
+          },
+          {
+            "name": "Risberg",
+            "time": 2378
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3128
+          },
+          {
+            "name": "Oxberg",
+            "time": 3139
+          },
+          {
+            "name": "Hökberg",
+            "time": 3035
+          },
+          {
+            "name": "Eldris",
+            "time": 2990
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 1966
+          },
+          {
+            "name": "Mål",
+            "time": 142
+          }
+        ]
+      },
+      {
+        "title": "Vasaloppet",
+        "year": 2008,
+        "intermediates": [
+          {
+            "name": "Smågan",
+            "time": 3454
+          },
+          {
+            "name": "Mångsbodarna",
+            "time": 3183
+          },
+          {
+            "name": "Risberg",
+            "time": 2587
+          },
+          {
+            "name": "Evertsberg",
+            "time": 3603
+          },
+          {
+            "name": "Oxberg",
+            "time": 3167
+          },
+          {
+            "name": "Hökberg",
+            "time": 2966
+          },
+          {
+            "name": "Eldris",
+            "time": 2924
+          },
+          {
+            "name": "Mora Förvarning",
+            "time": 2179
+          },
+          {
+            "name": "Mål",
+            "time": 163
+          }
+        ]
+      }
+    ]
+  }
+]
